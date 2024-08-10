@@ -7,3 +7,4 @@ midiv.addEventListener('click', function() {
 miboton.addEventListener('click', function(evento) {
     evento.stopPropagation();
 });
+//Solucion-click arriba
